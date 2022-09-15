@@ -1,4 +1,3 @@
-
 ### OLÁ! me chamo gabriel lemes.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lemes-conf01/)
@@ -19,3 +18,5 @@
 
 <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrlemes&layout=compact)](https://github.com/Gabrlemes/github-readme-stats)
 
+<br>
+estudando e me apaixonando pelo desenvolvimento tecnológico.
