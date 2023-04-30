@@ -4,7 +4,7 @@
 - Estudante de Análise e desenvolvimento de sistemas
 
  
-## ⚙️ Stats
+## ⚙️ Status
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrlemes&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrlemes&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabrlemes&theme=nord_dark) |
 | :-: | :-: | :-: |
