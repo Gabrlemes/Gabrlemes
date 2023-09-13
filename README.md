@@ -22,10 +22,12 @@
 </div>
   
  <div style="display: inline_block" align="center"><br>
+    <img alt="Gabrlemes-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img alt="Gabrlemes-pyhton" height="35" width="40" src="https://img.icons8.com/color/512/python.png">
     <img alt="Gabrlemes-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="Gabrlemes-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="Gabrlemes-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img alt="Gabrlemes-Sql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
   </div>
   
